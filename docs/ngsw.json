@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1676298821919,
+  "timestamp": 1676299398673,
   "index": "my_portfolio/index.html",
   "assetGroups": [
     {
@@ -302,7 +302,7 @@
     "my_portfolio/fa-solid-900.d5b0a3566b352ee9.ttf": "eb8914f6b1797b45ee0883e6089d92695d9f9441",
     "my_portfolio/fa-solid-900.e67670b0779338ff.woff": "a22acd7697f36e7d4cc31a853c70e776eac54bb1",
     "my_portfolio/favicon.ico": "43223a50179ec10832faee4ab4c5fd6aeb2545fe",
-    "my_portfolio/index.html": "21a032f6d2f7f2dadd230329961ffa8451498214",
+    "my_portfolio/index.html": "278c1ffd936b07794239ea9e7bd3f23ae299e7f1",
     "my_portfolio/main.a2d75fb1ef6393dc.js": "298d788f51580cfed8d0cb69ffd1670630f2ac7a",
     "my_portfolio/manifest.webmanifest": "ea08db9987378b2dc03324e975c35cecbb73bbfb",
     "my_portfolio/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
