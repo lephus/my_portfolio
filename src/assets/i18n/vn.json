@@ -1,0 +1,200 @@
+{
+  "Header.Item1": "Giới thiệu",
+  "Header.Item2": "Kinh nghiệm",
+  "Header.Item3": "Dự án",
+  "Header.Item4": "Liên hệ",
+  "Header.cvBtn": "Xem chi tiết CV",
+  "Header.cvName": "CV_Le_Huu_Phu.pdf",
+
+  "Banner.Pretitle": "Xin chào! Tôi là",
+  "Banner.Description": "Tôi có <span class='underline'>3 năm kinh nghiệm</span> trong việc phát triển hệ thống, và giải pháp công nghệ cho <span class='underline'>ứng dụng di động</span> và <span class='underline'>website</span> trở nên tốt hơn. Tôi tâm huyết và dành thời gian cho viết và tái cấu trúc sạch sẽ, có thể tái sử dụng, và áp dụng các công nghệ tốt - tiêu chuẩn phát triển.",
+  "Banner.ActionBtn": "Liên hệ với tôi",
+
+  "AboutMe.Title": "Về tôi",
+  "AboutMe.Paragraphs": [
+    "Trong 3 năm làm nhà phát triển, tôi tìm cách đào tạo mỗi ngày. Tôi đã làm việc để viết các bài kiểm tra đơn vị, thực hiện tích hợp liên tục và hỗ trợ các nhà phát triển phụ trợ. Tôi đã lãnh đạo các nhóm có sự đồng cảm, tạo động lực cho các đối tác và cùng nhau đặt ra các kế hoạch và mục tiêu.",
+    "Kỹ năng của tôi cũng bao gồm thực hiện các cải tiến hệ thống, tối ưu hóa, chuẩn hóa các mẫu cũng như đề xuất và thực hiện các ý tưởng làm tăng giá trị cho dự án mà tôi đang thực hiện.",
+    "Một số công nghệ mà tôi đã làm việc bao gồm (nhưng không giới hạn):"
+  ],
+
+  "Experience.Title": "Kinh nghiệm",
+  "Experience.Jobs": [
+    {
+      "Tab": "Fullstack dev",
+      "Title": "SOFTWARE ENGINEER",
+      "Date": "01/2022 - hiện nay",
+      "Description": [
+        "Tên dự án: Sorry. it is confidential...",
+        "Ngôn ngữ, công nghệ: Flutter, Angular, NestJs,...",
+        "Mô tả: Xây dựng và phát triển ứng dụng - website, phát triển backend, đề xuất giải pháp.",
+        "Vai trò: Hoàn thành xuất sắc nhiệm vụ được giao, tham gia xây dựng và phát triển các sản phẩm công nghệ."
+      ]
+    },
+    {
+      "Tab": "Mobile dev",
+      "Title": "APP MOBILE VSOFT FOR VTECH",
+      "Date": "09/2021 - 12/2021",
+      "Description": [
+        "Tên dự án: VSOFT",
+        "Ngôn ngữ, công nghệ: Flutter",
+        "Mô tả: Ứng dụng di động cho phép quản lý cửa hàng từ xa bao gồm khách hàng, kho hàng, đơn hàng, hỗ trợ chấm công theo thời gian thực và nhiều tính năng khác như thông báo, thống kê, cập nhật.",
+        "Vai trò: Xây dựng tất cả các tính năng của ứng dụng, Dẫn dắt nhóm 4 người"
+      ]
+    },
+    {
+      "Tab": "Mobile dev",
+      "Title": "APP CLOCK & NOTEBOOK",
+      "Date": "03/2021 - 09/2021",
+      "Description": [
+        "Tên dự án: Clock & NoteBook",
+        "Ngôn ngữ, công nghệ: Flutter",
+        "Mô tả: Công cụ quản lý thời gian và ghi chú thông minh.",
+        "Vai trò: Xây dựng tất cả các tính năng của ứng dụng."
+      ]
+    },
+    {
+      "Tab": "Backend dev",
+      "Title": "WEBSITE DA NANG ARCHITECTURE UNIVERSITY",
+      "Date": "05/2020 - 09/2020",
+      "Description": [
+        "Tên dự án: Website Da Nang Architecture University",
+        "Ngôn ngữ, công nghệ: Python, flask",
+        "Mô tả: Trang web bao gồm trang cung cấp thông tin về khoa, trang cung cấp thông tin về câu lạc bộ, trang quản trị dùng để quản lý toàn hệ thống và phân quyền sử dụng.",
+        "Vai trò: Phân tích và thiết kế cơ sở dữ liệu, restful API."
+      ]
+    },
+    {
+      "Tab": "Mobile dev",
+      "Title": "SOFTWARE DEVELOPMENT CENTRE - UNIVERSITY OF DA NANG",
+      "Date": "03/2020 - 06/2020",
+      "Description": [
+        "Tên dự án: Email maketing",
+        "Ngôn ngữ, công nghệ: Flutter",
+        "Mô tả: Ứng dụng di động chuyên quản lý quá trình gửi mail, quản lý thông tin khách hàng, cá nhân và hỗ trợ đăng nhập google.",
+        "Vai trò: Thiết kế UI, phân tích và thiết kế cơ sở dữ liệu, chương trình"
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "Dự án của tôi",
+  "FeatureProjects.Label": "Nổi bật",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Top Checkin",
+      "Description": "<span class='underline'>Phần mềm quản lý thời gian và quản lý nhân sự thông minh cho cả mobile và website</span> Cho phép admin quản lý cửa hàng, nhân viên và lương trong hệ thống, Nhân viên thực hiện chấm công, gửi yêu cầu nhanh chóng trên thiết bị di động,...",
+      "imgs": [
+        "assets/images/topcheckin/topcheckin1.png",
+        "assets/images/topcheckin/topcheckin2.png",
+        "assets/images/topcheckin/topcheckin3.png",
+        "assets/images/topcheckin/topcheckin4.png",
+        "assets/images/topcheckin/topcheckin5.png",
+        "assets/images/topcheckin/topcheckin6.png"
+      ],
+      "Technologies": [
+        "Flutter",
+        "NestJs",
+        "Angular",
+        "Postgresql",
+        "Tailwincss",
+        "Angular Material"
+      ]
+    },
+    {
+      "Title": "Faculty Management",
+      "Description": "Hệ thống bao gồm <span class='underline'>website</span> và một trang quản trị cho phép quản trị viên quản lý thông tin về khoa và cơ sở vật chất. Giao diện thân thiện và dễ sử dụng. <span class='underline'>Tính năng thông minh</span>",
+      "imgs": [
+        "assets/images/dau/dau1.png",
+        "assets/images/dau/dau2.png",
+        "assets/images/dau/dau3.png"
+      ],
+      "Technologies": ["Flask", "Python", "Mysql"]
+    },
+    {
+      "Title": "Fenwick Tree (BIT)",
+      "Description": "<span class='underline'>Đồ án thuật toán</span>, Sử dụng java swing để thể hiện <span class='underline'>thuật toán BIT</span>. Với dự liệu từ người dùng. ứng dụng sẽ xuất kết quả và vẽ các điểm, thể hiện trực quan hệ thống. <a href='https://www.youtube.com/watch?v=RJNRu8lxMSI'>Video</a>",
+      "imgs": [
+        "assets/images/bit/bit1.png",
+        "assets/images/bit/bit2.png",
+        "assets/images/bit/bit3.png",
+        "assets/images/bit/bit4.png",
+        "assets/images/bit/bit5.png",
+        "assets/images/bit/bit6.png",
+        "assets/images/bit/bit7.png"
+      ],
+      "Technologies": ["Java", "Swing", "Algorithm", "BIT"],
+      "demoLink": "https://www.youtube.com/watch?v=RJNRu8lxMSI"
+    },
+    {
+      "Title": "GreateCode",
+      "Description": "Website chia sẻ tài nguyên học tập, kinh nghiệm lập trình. kết nối cộng đồng và học tập",
+      "imgs": [
+        "assets/images/greencode/greencode1.png",
+        "assets/images/greencode/greencode2.png",
+        "assets/images/greencode/greencode3.png",
+        "assets/images/greencode/greencode4.png"
+      ],
+      "Technologies": ["Laravel", "Flask", "PHP"]
+    },
+    {
+      "Title": "VTECH App",
+      "Description": "Ứng dụng di động cho phép quản lý cửa hàng từ xa bao gồm khách hàng, kho hàng, đơn hàng, hỗ trợ chấm công theo thời gian thực và nhiều tính năng khác như thông báo, thống kê, cập nhật.",
+      "imgs": [
+        "assets/images/vtech/vtech1.jpg",
+        "assets/images/vtech/vtech2.jpg",
+        "assets/images/vtech/vtech3.jpg"
+      ],
+      "Technologies": ["Flutter", "GetX","Clean architecture"]
+    }
+  ],
+
+  "OtherProjects.Title": "Các dự án khác",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Alarm clock app",
+      "Description": "Công cụ quản lý thời gian và ghi chú thông minh.",
+      "ghLink": "https://github.com/lephus/Alarm_Clock_Flutter",
+      "demoLink": "https://play.google.com/store/apps/details?id=com.lehuuphu.clock_noteBook",
+      "Technologies": ["Flutter"]
+    },
+    {
+      "Title": "Shoe shop",
+      "Description": "Website thương mại điện tử với trang bán hàng thông minh, dễ sử dụng, thân thiện, website quản trị bán hàng đa năng.",
+      "ghLink": "https://github.com/lephus/php_web_ban_giay",
+      "demoLink": "https://github.com/lephus/php_web_ban_giay",
+      "Technologies": ["PHP", "CSS", "GIT"]
+    },
+    {
+      "Title": "Hotel rom",
+      "Description": "Dự án cá nhân với một trang được thiết kế từ bố cục Figma. sử dụng cơ sở dữ liệu firebase, cho phép sử dụng để đặt phòng online, xem trước và bình luận. Vai trò Admin có thể đăng phòng mới, cập nhật, tạo mới hoặc xóa.",
+      "ghLink": "https://github.com/lephus/Hotel-rom-android-app-",
+      "demoLink": "https://github.com/lephus/Hotel-rom-android-app-",
+      "Technologies": ["Firebase", "Java", "Android", "XML"]
+    },
+    {
+      "Title": "Estate website",
+      "Description": "Website thương mại điện tử với trang bán hàng thông minh, dễ sử dụng, thân thiện, website quản trị bán hàng đa năng.",
+      "ghLink": "https://github.com/lephus/estate_web",
+      "demoLink": "https://github.com/lephus/estate_web",
+      "Technologies": ["NestJs", "PHP", "GIT"]
+    },
+    {
+      "Title": "Caro game with winform",
+      "Description": "Tic-tac-toe là một trò chơi cờ phổ biến được viết trên một bảng 3x3, 9 ô vuông. Hai người chơi, một người sử dụng ký hiệu O, người kia sử dụng ký hiệu X, thay phiên nhau điền các ký hiệu của họ vào các ô. Người chiến thắng là người có thể tạo ra một chuỗi ba biểu tượng của riêng mình trước, theo chiều ngang, chiều dọc hoặc đường chéo.",
+      "ghLink": "https://github.com/lephus/Game_Caro_Winform",
+      "demoLink": "https://github.com/lephus/Game_Caro_Winform",
+      "Technologies": ["C#", "Winform", "Bot"]
+    },
+    {
+      "Title": "PiChat",
+      "Description": "Trò chuyện mọi lúc, mọi nơi. PiChat khiến việc ở bên những người bạn yêu thương trở nên dễ dàng và thú vị.",
+      "ghLink": "https://github.com/lephus/App_Chat_RealTime-PiFirebase",
+      "demoLink": "https://github.com/lephus/App_Chat_RealTime-PiFirebase",
+      "Technologies": ["Flutter", "Fribase", "Socket"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Liên hệ với tôi!",
+  "Contact.Content": "Tôi sẽ rất vui khi nhận được liên hệ của bạn nếu bạn muốn nói về những cơ hội mới. Hãy liên hệ cho tôi, và tôi sẽ trả lời ngay khi tôi nhìn thấy yêu cầu từ bạn.",
+  "Contact.Btn": "Say Hello",
+  "Contact.Phone": "+8432 8814 589"
+}
